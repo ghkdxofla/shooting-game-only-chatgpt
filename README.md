@@ -1,1 +1,1 @@
-# shooting-game-only-chatgpt
+# shooting-game-using-only-chatgpt
